@@ -1,0 +1,9 @@
+Epochs,Metric,Mean,95% CI Lower,95% CI Upper,CI Width
+5 Epochs,MAE,2.376,2.062,2.69,0.628
+5 Epochs,RMSE,2.927,2.547,3.307,0.76
+5 Epochs,MASE,2.455,2.119,2.791,0.672
+5 Epochs,WAPE (%),8.103,6.486,9.721,3.235
+10 Epochs,MAE,2.323,2.018,2.629,0.611
+10 Epochs,RMSE,2.859,2.489,3.228,0.739
+10 Epochs,MASE,2.41,2.073,2.747,0.674
+10 Epochs,WAPE (%),8.136,6.412,9.859,3.447
