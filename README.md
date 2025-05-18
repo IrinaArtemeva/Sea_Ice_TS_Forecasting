@@ -19,10 +19,12 @@ The SegRNN model demonstrated the most promising results in terms of accuracy, s
 ---
 
 ## Repository Structure
-├── notebooks/ → main Jupyter notebooks with data processing and modeling
-├── metrics/ → saved evaluation results, plots, and analysis tables
-├── README.md → project overview and usage instructions
 
+* main/
+  * notebooks/ → main Jupyter notebooks with data processing and modeling
+  * metrics/ → saved evaluation results, plots, and analysis tables
+  * README.md → project overview
+  
 ### Requirements
 - Python 3.10+
 - Recommended environment: Google Colab or Jupyter Lab
