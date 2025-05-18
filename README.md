@@ -11,6 +11,7 @@ The goal of the project was to develop and compare predictive models for 7 days 
 Models evaluated:
 - SARIMA (baseline statistical model)
 - LSTM
+- LSTM+attention
 - IndRNN
 - SegRNN (segmented recurrent neural network)
 
